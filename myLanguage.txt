@@ -1,0 +1,12 @@
+import react from "react" ;
+var d = "s";
+function f1 (var v2 = 5 ){
+let s = 5;
+
+return d;
+}
+
+function f2(){
+return d ;
+}
+
